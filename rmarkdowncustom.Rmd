@@ -1,0 +1,37 @@
+---
+title: "lab4 part 2 RMD tips"
+author: "Anastasia Kunz"
+date: "1/26/2021"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: hide 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+## Backround
+
+### Sources
+
+```{r}
+# This is the code that I would want to appear
+
+hi <- 4 + 2
+```
+
+#### Nex
+
+# Again
+
+## More Headers
+
+### Lots more stuff
+
